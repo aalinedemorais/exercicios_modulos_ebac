@@ -1,4 +1,4 @@
-Módulo 10
-Aula de Git
-Alterações 1
-Alterações após git clone
+Exercícios finais dos módulos do curso 'Teste de Software - EBAC'.
+
+Módulo 10 - 23/02/2025
+Módulo 13 - 25/05/2025
